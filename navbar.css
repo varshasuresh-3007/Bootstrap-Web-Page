@@ -1,0 +1,15 @@
+.width {
+    width: 17% !important;
+}
+.nav-item .nav-active{
+        color: #941ba3;
+}
+.nav-item:hover a{
+    color: #941ba3;
+}
+.bgcolor{
+    background: linear-gradient(to bottom , #854dce, #960ccc);
+}
+.height{
+    height: 600px;
+}
